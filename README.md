@@ -26,6 +26,7 @@ Rezultatai įrašomi į `results/`: suvestinės CSV lentelės, PR kreivės, reca
 ## Papildomi bandymai
 
 Abliacijos ir atsparumo trūkstamiems duomenims bandymai:
+(REIKIA SUKURTI "testavimas" APLANKĄ IR TEN ĮKELTI "run_tests.py" FAILĄ)
 
 ```bash
 cd testavimas
